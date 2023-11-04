@@ -2,6 +2,9 @@
 
 ![Car](https://github.com/Pranav0009/CarPricePredictionModel/assets/93175823/17c0549f-68c3-421e-b1c6-6e288d556707)
 
+## **Technologies Used**
+
+![Jupyter Notebook]([https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white](https://icons8.com/icon/J0SgMWzAxqFj/jupyter))
 
 ## Table of Contents
 - [About](#about)
