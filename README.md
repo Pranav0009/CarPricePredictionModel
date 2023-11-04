@@ -4,9 +4,7 @@
 
 <a href="https://jupyter.org/install">
     <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"></a>
-
-
- 
+<br>
 <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/Made%20With-Python%203.7-blue.svg?style=for-the-badge&logo=Python" alt="Made with Python 3.7"></a>
 
