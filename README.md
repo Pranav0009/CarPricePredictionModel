@@ -1,6 +1,7 @@
 # Car Price Prediction
 
-![Car Price Prediction](car.jpg)
+![Car Price Prediction]![Car](https://github.com/Pranav0009/CarPricePredictionModel/assets/93175823/17c0549f-68c3-421e-b1c6-6e288d556707)
+()
 
 ## Table of Contents
 - [About](#about)
