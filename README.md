@@ -1,9 +1,18 @@
 # Car Price Prediction
 
-![Project Image](path-to-your-project-image.png)
+![Car Price Prediction](car.jpg)
+
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## About
-This project is a Car Price Prediction model built using machine learning techniques. It helps predict the price of cars based on various features and data collected.
+This project is a Car Price Prediction model built using machine learning techniques. It helps predict the price of cars based on various features and data collected. The project utilizes a Decision Tree Regressor for prediction.
 
 ## Features
 - Data Preprocessing
@@ -12,17 +21,10 @@ This project is a Car Price Prediction model built using machine learning techni
 - Model Evaluation
 - Predicting Car Prices
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
-Describe the installation process, if any, including any dependencies. 
+To run this project locally, follow these steps:
 
-```shell
-pip install -r requirements.txt
+1. Clone this repository.
+   ```bash
+   git clone https://github.com/your-username/Car-Price-Prediction.git
+   cd Car-Price-Prediction
