@@ -4,6 +4,9 @@
 
 ![Jupyter Notebook](![icons8-jupyter-96](https://github.com/Pranav0009/CarPricePredictionModel/assets/93175823/9ddb92bf-fb60-4b28-af56-01d67756cee6))
 
+<a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/Made%20With-Python%203.7-blue.svg?style=for-the-badge&logo=Python" alt="Made with Python 3.7"></a>
+
 
 ## Table of Contents
 - [About](#about)
