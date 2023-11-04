@@ -6,10 +6,7 @@
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 This project is a Car Price Prediction model built using machine learning techniques. It helps predict the price of cars based on various features and data collected. The project utilizes a Decision Tree Regressor for prediction.
