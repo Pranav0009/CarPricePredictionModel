@@ -3,7 +3,7 @@
 ## **Technologies Used**
 
 <a href="https://jupyter.org/install">
-    <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"></a>
+    <img src="https://icons8.com/icon/J0SgMWzAxqFj/jupyter"></a>
 <br>
 <br>
 <a href="https://www.python.org/downloads/">
