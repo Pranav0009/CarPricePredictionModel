@@ -2,7 +2,7 @@
 
 ## **Technologies Used**
 
-![Jupyter Notebook]!([icons8-jupyter-96](https://github.com/Pranav0009/CarPricePredictionModel/assets/93175823/bc23b5d6-6f20-4c93-ab76-0ee698a1cec6))
+![Jupyter Notebook](![icons8-jupyter-96](https://github.com/Pranav0009/CarPricePredictionModel/assets/93175823/9ddb92bf-fb60-4b28-af56-01d67756cee6))
 
 
 ## Table of Contents
