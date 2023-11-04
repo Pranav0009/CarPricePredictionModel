@@ -26,3 +26,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/Car-Price-Prediction.git
    cd Car-Price-Prediction
+
+   ```shell
+pip install -r requirements.txt
