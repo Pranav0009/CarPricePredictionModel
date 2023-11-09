@@ -29,8 +29,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/your-username/Car-Price-Prediction.git
-   cd Car-Price-Prediction
+   git clone https://github.com/Pranav0009/CarPricePredictionModel.git
 
 ## Requirements
 Describe the installation process, if any, including any dependencies. 
